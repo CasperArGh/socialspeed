@@ -65,6 +65,7 @@
   /*
    *
    * Google API call
+   * https://developers.google.com/maps/documentation/javascript/distancematrix#transit_options
    *
    */ 
 
