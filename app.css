@@ -1,5 +1,9 @@
-.alert { display:none; }
-.formdata { margin:30px -15px; }
-.form-group { margin-bottom: 0; }
-input { margin-bottom: 10px; }
-.calcul { width:100%; }
+body { padding: 30px; }
+input { margin-bottom:15px; }
+.spacer { margin-top:30px; }
+#map-canvas { height:400px; }
+.transport.option { display:none; }
+body .rangeslider__handle { width: 20px; height: 20px; top: -5px; }
+body .rangeslider__handle:after { width: 9px; height: 9px; }
+body .rangeslider, .rangeslider__fill { width: 70%; height: 10px; }
+
